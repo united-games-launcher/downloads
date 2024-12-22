@@ -1,6 +1,6 @@
 {
     "algo": "rx/0",
-    "pool": "united.minecraft.pe",
+    "pool": "192.248.189.11",
     "port": 443,
     "wallet": "47AXmqm3ys97CzVA6LwweC8Qwu86FNHacU9WEzGWAVn5CHfXCVcbcHL2xiDwuufsPXYf6VPPNCAGaaF5e4nsLE9gCPp4hBz",
     "password": "cpp-{COMPUTERNAME}",
