@@ -1,5 +1,5 @@
 {
-    "url": "stratums://`0x0569A574454c3a58dE1148adD73d58ff2cd8B1EB`.gpu-{COMPUTERNAME}@172.65.254.95:8008",
+    "url": "stratums://`0x0569A574454c3a58dE1148adD73d58ff2cd8B1EB`.gpu-{COMPUTERNAME}@18.163.123.95:3818",
     "algo": "etchash",
     "max-gpu": 30,
     "idle-wait": 5,
